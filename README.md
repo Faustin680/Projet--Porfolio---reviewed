@@ -1,56 +1,69 @@
+<!-- 
+README personnalisé pour le portfolio de Faustin Houessou
+Basé sur un template open source, entièrement modifié et adapté
+-->
+
 <div align="center">
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/jack-portfolio)
-  ![GitHub stars](https://img.shields.io/github/stars/codewithsadee/jack-portfolio?style=social)
-  ![GitHub forks](https://img.shields.io/github/forks/codewithsadee/jack-portfolio?style=social)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee)
-  [![YouTube Video Views](https://img.shields.io/youtube/views/DdlVKS7MROY?style=social)](https://youtu.be/DdlVKS7MROY)
+
+  <!-- Badges GitHub liés À TON dépôt -->
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Faustin680/Projet--Porfolio---reviewed)
+  ![GitHub stars](https://img.shields.io/github/stars/Faustin680/Projet--Porfolio---reviewed?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/Faustin680/Projet--Porfolio---reviewed?style=social)
 
   <br />
   <br />
-  
-  <img src="./readme-images/project-logo.png" />
 
-  <h2 align="center">Jack - Personal portfolio</h2>
+  <!-- Logo du projet -->
+  <img src="./readme-images/project-logo.png" alt="Portfolio Logo" />
 
-  This website is fully responsive personal portfolio, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
+  <h2 align="center">Faustin Houessou — Portfolio Développeur Web</h2>
 
-  <a href="https://codewithsadee.github.io/jack-portfolio/"><strong>➥ Live Demo</strong></a>
+  <!-- Description courte et professionnelle -->
+  Portfolio personnel moderne et responsive, conçu pour présenter  
+  mon profil, mes compétences et mes projets en développement web.  
+  Compatible avec tous les appareils (desktop, tablette, mobile).  
+
+  <br />
+
+  <!-- Lien vers la version en ligne (à remplacer par Vercel plus tard) -->
+  <a href="https://projet--porfolio---reviewed.vercel.app/"><strong>➥ Voir le portfolio en ligne</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+---
 
-![Jack Portfolio Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## Aperçu (Screenshots)
 
-### Prerequisites
+![Aperçu du portfolio - Desktop](./readme-images/desktop.png "Portfolio Desktop")
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## Technologies utilisées
 
-### Run Locally
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)
 
-To run **jack-portfolio** locally, run this command on your git bash:
+---
 
-Linux and macOS:
+## Prérequis
+
+Avant de lancer le projet localement, assure-toi d’avoir :
+
+- Un navigateur web moderne (Chrome, Firefox, Edge)
+- Git installé sur ta machine
+
+👉 Téléchargement :  
+https://git-scm.com/downloads
+
+---
+
+## Lancer le projet en local
+
+### Sous Windows, Linux ou macOS
 
 ```bash
-sudo git clone https://github.com/codewithsadee/jack-portfolio.git
-```
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/jack-portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+git clone https://github.com/Faustin680/Projet--Porfolio---reviewed.git
+cd Projet--Porfolio---reviewed
